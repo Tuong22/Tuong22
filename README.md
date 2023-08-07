@@ -1,5 +1,5 @@
 # 💫About Me :
-🧐 Im currently learning web architecture.\n
+🧐 Im currently learning web architecture.
 👨‍💻 Coding a pet website.
 🎉 Fun Fact: 你好，我可以讲一点中文。
 
